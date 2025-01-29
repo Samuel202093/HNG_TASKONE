@@ -10,7 +10,7 @@ app.use(cors());
 const userData = {
     email: 'onyebuekes93@gmail.com',
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Samuel202093/HNG_TASKONE.git"
+    github_url: "https://github.com/Samuel202093/HNG_TASKONE"
 }
 
 app.get('/', (req, res)=>{
