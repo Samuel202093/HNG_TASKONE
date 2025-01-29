@@ -13,7 +13,7 @@ This is a simple Express.js application that serves user data through a RESTful 
 To run this project locally on Windows OS, follow these steps:
 
 1. **Clone the repository:**
-   git clone https://github.com/Samuel202093/HNG_TASKONE.git
+   git clone https://github.com/Samuel202093/HNG_TASKONE
    cd HNG_TASKONE
 
 2.  **Install dependencies:**
@@ -44,7 +44,7 @@ Response:
 {
     "email": "johndoe@gmail.com",
     "current_datetime": "2023-10-01T12:00:00.000Z",
-    "github_url": "https://github.com/Samuel202093/HNG_TASKONE.git"
+    "github_url": "https://github.com/Samuel202093/HNG_TASKONE"
 }
 
 ** Programming Language **
