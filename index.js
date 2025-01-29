@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(cors());
 
 const userData = {
-    email: 'johndoe@gmail.com',
+    email: 'onyebuekes93@gmail.com',
     current_datetime: new Date().toISOString(),
     github_url: "https://github.com/Samuel202093/HNG_TASKONE.git"
 }
