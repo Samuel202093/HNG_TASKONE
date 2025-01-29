@@ -14,12 +14,13 @@ To run this project locally on Windows OS, follow these steps:
 
 1. **Clone the repository:**
    git clone https://github.com/Samuel202093/HNG_TASKONE
+   
    cd HNG_TASKONE
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
     npm install
 
-3. **Run the application**
+4. **Run the application**
    npm start
 
 ## Usage
