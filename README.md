@@ -17,10 +17,12 @@ To run this project locally on Windows OS, follow these steps:
    
    cd HNG_TASKONE
 
-3.  **Install dependencies:**
+2.  **Install dependencies:**
+   
     npm install
 
-4. **Run the application**
+3. **Run the application**
+   
    npm start
 
 ## Usage
@@ -31,17 +33,23 @@ http://localhost:5000/
 ## API Documentation 
 
   ** Endpoint **
-      GET /
+  
+   GET /
 
   Description: Returns user data including email, current date and time, and GitHub URL.
 
 Request:
-    Method: GET
-    URL: http://localhost:5000/
+
+   Method: GET
+   
+   URL: http://localhost:5000/
   
 Response:
-    Status Code: 200 OK
-    Response Body:
+
+ Status Code: 200 OK
+ 
+Response Body:
+
 {
     "email": "johndoe@gmail.com",
     "current_datetime": "2023-10-01T12:00:00.000Z",
@@ -49,5 +57,6 @@ Response:
 }
 
 ** Programming Language **
+
   https://hng.tech/hire/nodejs-developers
   
