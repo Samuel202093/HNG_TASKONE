@@ -51,7 +51,7 @@ Response:
 Response Body:
 
 {
-    "email": "johndoe@gmail.com",
+    "email": "onyebuekes93@gmail.com",
     "current_datetime": "2023-10-01T12:00:00.000Z",
     "github_url": "https://github.com/Samuel202093/HNG_TASKONE"
 }
